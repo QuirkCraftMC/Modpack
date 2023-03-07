@@ -7,6 +7,8 @@
 !defaultconfigs/**
 !icons/**
 !icon.png
+!modlist.html
+!manifest.json
 
 !*/
 
