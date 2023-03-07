@@ -1,0 +1,12 @@
+*
+
+!.vscode/**
+
+!.gitignore
+!config/**
+!defaultconfigs/**
+!icons/**
+!icon.png
+
+!*/
+
